@@ -198,7 +198,7 @@ export default {
 
 <style lang="scss">
 .jordan.section {
-    background-image: url('../assets/l2.jpeg');
+    background-image: url('../assets/l1.jpg');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;

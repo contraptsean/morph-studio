@@ -213,7 +213,7 @@ export default {
 
 <style lang="scss">
 .header.section {
-    background-image: url('../assets/l3.jpeg');
+    background-image: url('../assets/l2.jpg');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
