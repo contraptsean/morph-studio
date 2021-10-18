@@ -1,18 +1,42 @@
 <template>
+  <Navbar />
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <VideoHero />
+    <OurStory />
+    <ServicesAndBooking />
+    <Shop />
+    <Covid />
   </div>
+  <Footer />
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+
+import Navbar from '@/components/Navbar.vue'
+import VideoHero from '@/components/VideoHero.vue'
+import OurStory from '@/components/OurStory.vue'
+import ServicesAndBooking from '@/components/ServicesAndBooking.vue'
+import Shop from '@/components/Shop.vue'
+import Covid from '@/components/Covid.vue'
+import Footer from '@/components/Footer.vue'
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld
+    Navbar,
+    VideoHero,
+    OurStory,
+    ServicesAndBooking,
+    Shop,
+    Covid,
+    Footer
   }
 }
 </script>
+
+<style lang="scss">
+// .home {
+// position:relative;
+// }
+</style>
