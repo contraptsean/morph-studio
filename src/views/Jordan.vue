@@ -6,7 +6,7 @@
     <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center border">
       <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
         <h1 class="display-4 fw-bold lh-1">Jordan</h1>
-        <p class="lead">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.</p>
+        <p class="lead">Jordan is an artist that translates style and character into any head of hair. Awesome hair for everyone is the goal. Jordan is always excited to help on whatever hair journey you want to begin.</p>
       </div>
       <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden">
           <img class="w-75 rounded-circle" src="../assets/j1.jpg" alt="">
@@ -50,30 +50,46 @@
             <ul class="list-unstyled">
 
               <li><h5>Short Cut</h5>
-              For guests with short length hair (over the ear)
-              <br />Includes Cut, Wash, and Style
-              <br /><small class="text-muted">$40+</small></li>
+              Above the ear, clipper, pixie, micro mullet. A short cut with wash and style
+              <br />*If you are doing a large style change and going from very long to short please book the long cut
+              <br /><small class="text-muted">$40</small></li>
               
-              <li><h5>The Dry Cut</h5>
-              Any length of hair
-              <br />No shampoo
-              <br /><small class="text-muted">$40+</small></li>
+              <li><h5>Long Cut</h5>
+              Bobs or longer including wash and style
+              <br />Also for major style changes from long to short
+              <br /><small class="text-muted">$65</small></li>
+
+              <li><h5>Curly and Highly Textured Cut</h5>
+              Curly Hair past the ears that needs more guidance and nuisance let me guide you in your texture journey
+              <br /><small class="text-muted">$65</small></li>
+
+              <li><h5>Returning Client Dry Cut</h5>
+              Any length, come styled leave with a shape up
+              <br /><small class="text-muted">$40</small></li>
+
+              <li><h5>Returning Client Bang Trim</h5>
+              Mini bang and face framing touch up
+              <br />*not for creating new bangs
+              <br /><small class="text-muted">$15</small></li>
               
-              <li><h5>The Looong Cut</h5>
-              For Bobs and longer mullets
-              <br />Includes Cut, Wash, and Style
-              <br /><small class="text-muted">$65+</small></li>
 
               <li><h5>Wash and Style</h5>
               This one hour service is perfect for special occasions
-              <br /><small class="text-muted">$40+</small></li>
+              <br /><small class="text-muted">$40</small></li>
+
+              <li><h5>Complimentary Consultation</h5>
+              Want a fresh color? Need to ask questions about a cut first? Complimentary consulting for any service inquisitions
+              <br /><small class="text-muted">FREE (15 min)</small></li>
 
             </ul>
 
             <h4 class="mt-5">Color Services</h4>
                         <hr />
 
-            <p class="lead">Color, Color Correction and Blonding/Highlighting services are charged by the hour and are dependent on how much time and product it is required for the finished result.</p>
+            <!-- <p class="lead">Color, Color Correction and Blonding/Highlighting services are charged by the hour and are dependent on how much time and product it is required for the finished result.</p> -->
+
+            <p class="lead">My customer color starts at $70/hr and includes the hair repair treatment Olaplex in all color. All new clients need a consultation online or in person before color.
+</p>
             <ul class="list-unstyled">
 
               <li><h5>Basic Color</h5>
@@ -81,14 +97,14 @@
               <br /><small class="text-muted">$70/hr</small></li>
               
               <li><h5>Maintenance Color</h5>
-              <small class="text-muted">$60+</small></li>
+              <small class="text-muted">$60</small></li>
 
               <li><h5>Toning?</h5>
               Includes Wash and Style
-              <br /><small class="text-muted">$75+</small></li>
+              <br /><small class="text-muted">$75</small></li>
 
               <li><h5>Eyebrow Color</h5>
-              <small class="text-muted">$15+</small></li>
+              <small class="text-muted">$15</small></li>
 
               
               

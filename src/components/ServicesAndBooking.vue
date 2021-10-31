@@ -11,7 +11,7 @@
   <img src="../assets/a1.jpg" class="card-img-top rounded" alt="...">
   <div class="card-body text-center">
     <h5 class="card-title">Arista</h5>
-    <p class="card-text">Education Director/Curl Guru</p>
+    <p class="card-text">Curl Cultivator</p>
   </div>
     <div class="mt-auto text-center">
 
@@ -29,11 +29,11 @@
   <img src="../assets/j1.jpg" class="card-img-top rounded" alt="...">
   <div class="card-body text-center">
     <h5 class="card-title">Jordan</h5>
-    <p class="card-text">Color Maestro/Aesthetic Overlord</p>
+    <p class="card-text">Universal Style Translator</p>
   </div>
         <div class="mt-auto text-center">
 
-      <a class="btn btn-secondary" href="/jordan" alt="...">See Services <i class="bi bi-arrow-right"></i></a>
+      <a class="btn btn-secondary" href="/jordan" alt="jordan masked">See Services <i class="bi bi-arrow-right"></i></a>
 
     </div>
 </div><!--end card-->
@@ -48,7 +48,7 @@
   <img src="../assets/mystery-person.jpg" class="card-img-top rounded" alt="..." style="height:288px;">
   <div class="card-body text-center">
     <h5 class="card-title">Maia</h5>
-    <p class="card-text">Lashes, Eyebrows, and really the whole face</p>
+    <p class="card-text">Lashes, Eyebrows, and everything in between</p>
   </div>
         <div class="mt-auto text-center">
 

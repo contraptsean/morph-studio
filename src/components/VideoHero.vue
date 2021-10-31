@@ -17,7 +17,7 @@
       <div class="w-100 text-white">
           <div class="col">
         <h1 class="display-3">Morph Studio</h1>
-        <a type="button" class="btn btn-outline-primary btn-lg px-4 me-md-2" href="#our-story">It Us</a>
+        <a type="button" class="btn btn-outline-primary btn-lg px-4 me-md-2" href="#our-story">About</a>
         <a type="button" class="btn btn-outline-primary btn-lg px-4" href="#services-and-booking">Make An Appointment</a>
         </div>
       </div>

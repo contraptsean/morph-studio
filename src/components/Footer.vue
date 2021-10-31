@@ -12,7 +12,7 @@
             <div class="col-lg-3 col-md-12 mb-4 mb-md-0" id="footer-row-2">
 
         <p>
-          1317 S. Adams St.
+          1617 S. Adams St.
           <br />Tallahassee, FL.
         </p>
       </div>
@@ -20,13 +20,7 @@
 
       <!--Grid column-->
       <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-        <h5 class="text-uppercase">Hours</h5>
-
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis
-          molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae
-          aliquam voluptatem veniam, est atque cumque eum delectus sint!
-        </p>
+        <iframe width="100%" height="400" src="https://maps.google.com/maps?q=1617%20South%20Adams%20St,%20tallahassee&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
       </div>
       <!--Grid column-->
     </div>
