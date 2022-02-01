@@ -13,11 +13,11 @@
     <p class="lead mt-5">At Morph we believe all heads deserve quality care.</p>
 
     <ul class="list-unstyled">
-      <li><strong>Inclusivity:</strong>
+      <li><strong class="display-5">Inclusivity:</strong>
       <br />Hair is an important part of our culture – a part of our roots. It’s not simply about the aesthetic, it’s a ritual, and its for everyone.</li>
-      <li><strong>Health:</strong>
+      <li><strong class="display-5">Health:</strong>
       <br />While the journey to healthy hair is unique to each person’s hair texture, it shouldn’t have to be difficult, or inconvenient. On the contrary, it should be enjoyable.</li>
-      <li><strong>Style:</strong>
+      <li><strong class="display-5">Style:</strong>
       <br />We know that time is money. Our signature straightening method guarantees to get you in, get styled, and get going.</li>
 
 

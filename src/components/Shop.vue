@@ -5,17 +5,18 @@
     <div class="row mt-5">
 
       <div class="col-sm-6 mb-3">
-                  <p class="lead">At Morph Studio we source the best products for our clientele. </p>
+                  <p class="lead">At Morph Studio we are dedicated to finding products that work. </p>
 
           
-          <p><strong>In the shop</strong> we stock the finest lightweight baby oils (for your hair) from the finest local producers, as well as ACME shampoo and teasers. Our product offering includes hair products and accessories as well as curated lifestyle products through our in-house brand that continues to grow each season.</p>
+          <p>We currently carry Innersense Organic Beauty, Hairstory, and AG Naturals. We focus on finding hair care with no parabens, silicones, sulfates, synthetic fragrances or questionable ingredients.</p>
           
-
-          <p><strong>We also offer</strong> cleansing and styling solutions from Hairstory.</p>
+          <p>Innersense Organic Beauty continues to push the boundaries of new product development by utilizing organic chemistry to raise the bar on clean, luxurious formulas with professional performance to care for your hair, health and planet.</p>
 
           <p>New Wash is a revolutionary hair product that removes regular shampoo from the equation. Our hair cleansers are designed for your unique hair type - whether you have curly hair, fine hair, dry hair, oily hair color-treated hair, or anything in between.</p>
             
-          <a href="https://www.hairstory.com/?r=vsdlad" class="btn btn-primary" target="_blank">Shop HairStory Products <i class="bi bi-arrow-right px-2" /></a>
+          <a href="https://www.hairstory.com/?r=vsdlad" class="btn btn-primary my-3" target="_blank">Shop HairStory Products <i class="bi bi-arrow-right px-2" /></a>
+
+          <p>Ask about joining our refill program! Use less plastic and save! Purchase certain hair care products, bring back the clean bottle and get 20% the price for a refill.</p>
         
           
       </div>
@@ -23,7 +24,7 @@
       
       
       <div class="col-sm-6">
-          <img src="../assets/s1.jpg" class="img-fluid w-75 rounded" />
+          <img src="../assets/inside.jpeg" class="img-fluid w-75 rounded" />
       </div>
   </div><!--End row-->
    </div>

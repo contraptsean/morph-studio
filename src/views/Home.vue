@@ -2,10 +2,10 @@
   <Navbar />
   <div class="home">
     <VideoHero />
-    <Promise />
     <OurStory />
     <ServicesAndBooking />
     <Shop />
+    <OurLocation />
     <Covid />
   </div>
   <Footer />
@@ -17,7 +17,7 @@
 import Navbar from '@/components/Navbar.vue'
 import VideoHero from '@/components/VideoHero.vue'
 import OurStory from '@/components/OurStory.vue'
-import Promise from '@/components/Promise.vue'
+import OurLocation from '@/components/OurLocation.vue'
 import ServicesAndBooking from '@/components/ServicesAndBooking.vue'
 import Shop from '@/components/Shop.vue'
 import Covid from '@/components/Covid.vue'
@@ -29,7 +29,7 @@ export default {
     Navbar,
     VideoHero,
     OurStory,
-    Promise,
+    OurLocation,
     ServicesAndBooking,
     Shop,
     Covid,

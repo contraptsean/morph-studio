@@ -48,7 +48,7 @@
   <img src="../assets/mystery-person.jpg" class="card-img-top rounded" alt="..." style="height:288px;">
   <div class="card-body text-center">
     <h5 class="card-title">Maia</h5>
-    <p class="card-text">Lashes, Eyebrows, and everything in between</p>
+    <p class="card-text">Licensed Full Lash Specialist </p>
   </div>
         <div class="mt-auto text-center">
 

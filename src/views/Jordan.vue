@@ -7,6 +7,8 @@
       <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
         <h1 class="display-4 fw-bold lh-1">Jordan</h1>
         <p class="lead">Jordan is an artist that translates style and character into any head of hair. Awesome hair for everyone is the goal. Jordan is always excited to help on whatever hair journey you want to begin.</p>
+                <a class="btn btn-secondary" href="https://jordan-rae-hair.square.site/" target="_blank">Book Jordan Online <i class="bi bi-arrow-right"></i></a>
+
       </div>
       <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden">
           <img class="w-75 rounded-circle" src="../assets/j1.jpg" alt="">
