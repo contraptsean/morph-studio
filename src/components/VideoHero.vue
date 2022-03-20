@@ -6,7 +6,7 @@
 
   <!-- The HTML5 video element that will create the background video on the header -->
   <video class="animate__animated animate__fadeIn" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-    <source src="../assets/morph-front.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/dtjlk7e7g/video/upload/v1647718539/Morph-Front-1_bft1fz.mp4" type="video/mp4">
   </video>
   <!-- <iframe src="https://www.youtube.com/embed/21ZhnZVy074?controls=0&autoplay=1&mute=1&playlist=21ZhnZVy074&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
@@ -17,7 +17,7 @@
       <div class="w-100 text-white">
           <div class="col">
         <h1 class="display-3">Morph Studio</h1>
-        <a type="button" class="btn btn-outline-primary btn-lg px-4 me-md-2" href="#our-story">About</a>
+        <a type="button" class="btn btn-outline-primary btn-lg px-4 me-2" href="#our-story">About</a>
         <a type="button" class="btn btn-outline-primary btn-lg px-4" href="#services-and-booking">Make An Appointment</a>
         </div>
       </div>
@@ -38,8 +38,8 @@ export default {
 <style scoped lang="scss">
 header {
   position: relative;
-  top:-95px;
-  margin-bottom:-95px;
+  top:-90px;
+  margin-bottom:-90px;
   background-color: black;
   height: 100vh;
   min-height: 25rem;

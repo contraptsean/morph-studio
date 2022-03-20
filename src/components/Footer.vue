@@ -6,23 +6,16 @@
     <!--Grid row-->
     <div class="row">
       <!--Grid column-->
-      <div class="col-lg-3 col-md-12 mb-4 mb-md-0" id="footer-row-1">
+      <div class="col-md-12 col-lg-3 mb-4 mb-md-0" id="footer-row-1">
         <h5 class="text-uppercase">Morph Studio Tallahassee</h5>
       </div>
-            <div class="col-lg-3 col-md-12 mb-4 mb-md-0" id="footer-row-2">
+        <div class="col-md-12 col-lg-9 mb-4 mb-md-0" id="footer-row-2">
 
         <p>
-          1617 S. Adams St.
+          1617 South Adams St, Unit 2, top floor
           <br />Tallahassee, FL.
         </p>
       </div>
-      <!--Grid column-->
-
-      <!--Grid column-->
-      <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-        <iframe width="100%" height="400" src="https://maps.google.com/maps?q=1617%20South%20Adams%20St,%20tallahassee&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-      </div>
-      <!--Grid column-->
     </div>
     <!--Grid row-->
   </div>

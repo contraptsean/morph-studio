@@ -6,7 +6,7 @@
     <h2 class="pb-2 border-bottom mt-5 display-4">Our Location</h2>
 
     <div class="col mt-5">
-          <iframe width="100%" height="400" src="https://maps.google.com/maps?q=1617%20South%20Adams%20St,%20tallahassee%20Unit%20Unit%202&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3440.3519553100286!2d-84.28382638487584!3d30.426123181744938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88ecf5681e5f2823%3A0xf0e7b4873aa44418!2s1617%20S%20Adams%20St%20%232%2C%20Tallahassee%2C%20FL%2032301!5e0!3m2!1sen!2sus!4v1645717874116!5m2!1sen!2sus" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
       
     </div>
     <div class="col">

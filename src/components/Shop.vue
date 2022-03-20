@@ -14,7 +14,7 @@
 
           <p>New Wash is a revolutionary hair product that removes regular shampoo from the equation. Our hair cleansers are designed for your unique hair type - whether you have curly hair, fine hair, dry hair, oily hair color-treated hair, or anything in between.</p>
             
-          <a href="https://www.hairstory.com/?r=vsdlad" class="btn btn-primary my-3" target="_blank">Shop HairStory Products <i class="bi bi-arrow-right px-2" /></a>
+          <a href="https://www.hairstory.com/?r=vsdlad" class="btn btn-outline-secondary my-3" target="_blank">Shop HairStory Products <i class="bi bi-arrow-right px-2" /></a>
 
           <p>Ask about joining our refill program! Use less plastic and save! Purchase certain hair care products, bring back the clean bottle and get 20% the price for a refill.</p>
         

@@ -1,23 +1,31 @@
 <template>
   
-    <nav class="navbar navbar-expand-lg sticky-top animate__animated animate__fadeIn" id="navbar-1" :class="{change_color: scrollPosition > 50 || this.$route.path !== '/' , animate__fadeInDown: scrollPosition > 50 && this.$route.path === '/', animate__fadeIn: scrollPosition < 50 && this.$route.path === '/',  }">
+    <nav class="navbar navbar-expand-lg sticky-top animate__animated animate__fadeIn py-0" id="navbar-1" :class="{change_color: scrollPosition > 50 || this.$route.path !== '/' , animate__fadeInDown: scrollPosition > 50 && this.$route.path === '/', animate__fadeIn: scrollPosition < 50 && this.$route.path === '/',  }">
     <div class="container">
-        <a class="navbar-brand" href="/">
-          <img src="../assets/logo-test.png" alt="" width="50" class="mx-2"></a>
+        <a class="navbar-brand py-0" href="/">
+          <img src="../assets/logo1.svg" alt="Morph Logo" :class="{d_none: scrollPosition > 50 || this.$route.path !== '/'}"> <!--displays if on homepage and at top-->
+          <img src="../assets/logo14.svg" alt="Morph Logo" :class="{d_none: scrollPosition < 50 && this.$route.path == '/'}"> <!--displays if scrolled or not on homepage-->
+        </a>
         <button class="navbar-toggler navbar-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+        <ul class="navbar-nav mb-2 mb-lg-0 align-items-center">
             <li class="nav-item active">
             <a class="nav-link" href="/#our-story">Our Story</a>
             </li>
+            <i class="bi bi-flower2 nav-link"></i>
             <li class="nav-item">
             <a class="nav-link" href="/#services-and-booking">Services & Booking</a>
             </li>
+            <i class="bi bi-flower2 nav-link"></i>
+
             <li class="nav-item">
             <a class="nav-link" href="/#shop">Shop</a>
             </li>
+
+            <i class="bi bi-flower2 nav-link"></i>
+
             <li class="nav-item">
             <a class="nav-link" href="/#covid">COVID-19</a>
             </li>
@@ -56,6 +64,8 @@ export default {
 .navbar {
   font-size:1.2rem;
   color:#fff;
+  text-transform: uppercase;
+  font-weight:700;
 }
 
 .nav-item{
@@ -69,5 +79,16 @@ export default {
    }
    .change_color .nav-link {
       color:#000;
+   }
+
+   i {
+     font-size: 0.8rem;
+   }
+   img {
+     width:30%
+   }
+
+   .d_none {
+     display:none;
    }
 </style>
