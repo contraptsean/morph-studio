@@ -1,7 +1,7 @@
 //My variable overides
 $enable-rounded:false;
-$primary:#b8f2e6;
-$secondary: #080066;
+$primary: #dbcbca;
+$secondary: #b55b4e;
 $font-size-base:1.2rem;
 // $font-family-sans-serif: 
 //$primary:#17C9b9;
@@ -11,9 +11,7 @@ $font-size-base:1.2rem;
 #app h1 {
     font-family: 'Gabriela', serif;
     font-weight: 600;
-    & .display-3 {
-        color: rgb(252, 218, 205);
-    }
+    color: $primary;
 }
 
 #app h2 {

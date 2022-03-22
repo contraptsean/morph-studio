@@ -12,6 +12,9 @@
 </template>
 
 <script>
+//animate on scroll
+import AOS from 'aos'
+import 'aos/dist/aos.css'
 // @ is an alias to /src
 
 import Navbar from '@/components/Navbar.vue'
@@ -34,6 +37,9 @@ export default {
     Shop,
     Covid,
     Footer
+  },
+  mounted() {
+    AOS.init();
   }
 }
 </script>

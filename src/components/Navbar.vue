@@ -14,17 +14,17 @@
             <li class="nav-item active">
             <a class="nav-link" href="/#our-story">Our Story</a>
             </li>
-            <i class="bi bi-flower2 nav-link"></i>
+            <i class="bi bi-flower1 nav-link"></i>
             <li class="nav-item">
             <a class="nav-link" href="/#services-and-booking">Services & Booking</a>
             </li>
-            <i class="bi bi-flower2 nav-link"></i>
+            <i class="bi bi-flower1 nav-link"></i>
 
             <li class="nav-item">
             <a class="nav-link" href="/#shop">Shop</a>
             </li>
 
-            <i class="bi bi-flower2 nav-link"></i>
+            <i class="bi bi-flower1 nav-link"></i>
 
             <li class="nav-item">
             <a class="nav-link" href="/#covid">COVID-19</a>
