@@ -6,7 +6,7 @@
           <img src="../assets/logo1.svg" alt="Morph Logo" :class="{d_none: scrollPosition > 50 || this.$route.path !== '/'}"> <!--displays if on homepage and at top-->
           <img src="../assets/logo14.svg" alt="Morph Logo" :class="{d_none: scrollPosition < 50 && this.$route.path == '/'}"> <!--displays if scrolled or not on homepage-->
         </a>
-        <button class="navbar-toggler navbar-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" :class="{'navbar-light': scrollPosition > 50 || this.$route.path !== '/', 'navbar-dark': scrollPosition < 50 && this.$route.path == '/'} " type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
@@ -14,20 +14,20 @@
             <li class="nav-item active">
             <a class="nav-link" href="/#our-story">Our Story</a>
             </li>
-            <i class="bi bi-flower1 nav-link"></i>
+            <i class="bi bi-cloud-moon-fill nav-link"></i>
             <li class="nav-item">
             <a class="nav-link" href="/#services-and-booking">Services & Booking</a>
             </li>
-            <i class="bi bi-flower1 nav-link"></i>
+            <i class="bi bi-cloud-moon-fill nav-link"></i>
 
             <li class="nav-item">
             <a class="nav-link" href="/#shop">Shop</a>
             </li>
 
-            <i class="bi bi-flower1 nav-link"></i>
+            <i class="bi bi-cloud-moon-fill nav-link"></i>
 
             <li class="nav-item">
-            <a class="nav-link" href="/#covid">COVID-19</a>
+            <a class="nav-link" :class="{'last-nav': scrollPosition < 50 && this.$route.path == '/'}" href="/#covid">COVID-19</a>
             </li>
 
         </ul>
@@ -50,6 +50,7 @@ export default {
   methods: {
     updateScroll() {
        this.scrollPosition = window.scrollY
+       
     }
   },
   mounted() {
@@ -91,4 +92,10 @@ export default {
    .d_none {
      display:none;
    }
+@media (max-width: 992px) { 
+  
+  .last-nav {
+    margin-bottom:95px;
+  }
+ }
 </style>

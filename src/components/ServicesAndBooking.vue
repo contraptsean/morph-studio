@@ -3,9 +3,9 @@
    <div class="container px-4 py-5">
     <h2 class="pb-2 border-bottom mt-5 display-4 services-heading" data-aos="fade-down" data-aos-duration="500" data-aos-once="true">Services & Bookings</h2>
     <p class="lead mb-4" data-aos="fade-down" data-aos-duration="500" data-aos-once="true" data-aos-anchor=".services-heading">In order to offer a full suite of services, each of our artists specializes uniquely and books independently. See our artist pages for full details.</p>
-    <div class="row justify-content-center">
+    <div class="row row-cols-1 row-cols-lg-3 justify-content-center">
 
-<div class="col-md-3 py-2 py-md-n2 ms-5 ms-md-n5" style="">
+<div class="col mb-4 mb-lg-0 d-flex justify-content-center">
     <!--A-->
     <div class="card h-100 border border-primary shadow" data-aos="fade-down" data-aos-duration="500" data-aos-once="true">
   <img src="../assets/a1.jpg" class="card-img-top rounded" alt="...">
@@ -22,7 +22,7 @@
 
 
 
-<div class="col-md-3 py-2 py-md-n2 ms-5 ms-md-n5">
+<div class="col mb-4 mb-lg-0 d-flex justify-content-center">
 
 <!--J-->
  <div class="card h-100 border border-primary shadow" data-aos="fade-down" data-aos-duration="500" data-aos-once="true" data-aos-delay="100"
@@ -39,10 +39,10 @@
     </div>
 </div><!--end card-->
 
-</div><!--end col-->
+</div><!--end col -->
 
 
-<div class="col-md-3 py-2 py-md-n2 ms-5 ms-md-n5">
+<div class="col mb-4 mb-lg-0 d-flex justify-content-center">
 
 <!--M-->
  <div class="card h-100 border border-primary shadow" data-aos="fade-down" data-aos-duration="500" data-aos-once="true" data-aos-delay="200"
