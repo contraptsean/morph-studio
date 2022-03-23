@@ -26,11 +26,38 @@ $font-size-base:1.2rem;
     font-family: 'Gabriela', serif;
 }
 
+#app .services.section .card {
+    padding: 2rem;
+    transition: transform .2s;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+}
+
+#app .services.section .card:hover {
+    box-shadow: 0 0.7rem 1.5rem rgb(0 0 0 / 15%) !important;
+    transform: scale(1.02);
+}
+
+#app .services.section h2 {
+    margin-top: 3rem;
+}
+
 #app p,
 li {
     font-family: 'Open Sans', sans-serif;
 }
 
+#app p.lead.statement {
+    margin-top: -5rem;
+    padding: 0 1rem;
+}
+
 #app .btn {
     border-radius: 40px;
+}
+
+@media (min-width: 768px) {
+    #app p.lead.statement {
+        margin-top: 1rem;
+        padding: 0;
+    }
 }

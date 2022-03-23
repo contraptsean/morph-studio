@@ -12,7 +12,7 @@
       </div><!--end col-->
 
         <div class="col mt-3 d-flex flex-column">
-        <p class="lead">Jordan is an artist that translates style and character into any head of hair. Awesome hair for everyone is the goal. Jordan is always excited to help on whatever hair journey you want to begin.</p>
+        <p class="lead statement">Jordan is an artist that translates style and character into any head of hair. Awesome hair for everyone is the goal. Jordan is always excited to help on whatever hair journey you want to begin.</p>
 
           <a class="btn btn-secondary align-self-center px-3" href="https://jordan-rae-hair.square.site/" target="_blank">Book Jordan Online <i class="bi bi-arrow-right"></i></a>
         </div><!--end col-->
@@ -140,17 +140,6 @@ export default {
     background-size: cover;
 }
 
-
-.nav-pills .nav-link.active {
-  background-color:#080066;;
-}
-
-.nav-link {
-  color: #080066;
-}
-ul li {
-  margin-bottom:2rem;
-}
 img {
   position:relative;
   top:-50%;

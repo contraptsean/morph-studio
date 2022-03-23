@@ -85,7 +85,7 @@ export default {
 
 .card:hover {
   box-shadow: 0 0.7rem 1.5rem rgb(0 0 0 / 15%) !important;
-  transform: scale(1.05); 
+  transform: scale(1.02); 
 
 }
 
