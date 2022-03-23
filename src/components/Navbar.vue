@@ -1,6 +1,6 @@
 <template>
   
-    <nav class="navbar navbar-expand-lg sticky-top animate__animated animate__fadeIn py-0" id="navbar-1" :class="{change_color: scrollPosition > 50 || this.$route.path !== '/' , animate__fadeInDown: scrollPosition > 50 && this.$route.path === '/', animate__fadeIn: scrollPosition < 50 && this.$route.path === '/',  }">
+    <nav class="navbar navbar-expand-lg sticky-top animate__animated animate__fadeIn py-0" id="navbar-1" :class="{change_color: scrollPosition > 50 || this.$route.path !== '/' , animate__fadeInDown: scrollPosition > 50 && this.$route.path === '/', animate__fadeIn: scrollPosition < 50 }">
     <div class="container">
         <a class="navbar-brand py-0" href="/">
           <img src="../assets/logo1.svg" alt="Morph Logo" :class="{d_none: scrollPosition > 50 || this.$route.path !== '/'}"> <!--displays if on homepage and at top-->
@@ -93,7 +93,6 @@ export default {
      display:none;
    }
 @media (max-width: 992px) { 
-  
   .last-nav {
     margin-bottom:95px;
   }
