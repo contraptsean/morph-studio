@@ -45,7 +45,5 @@ export default {
 </script>
 
 <style lang="scss">
-// .home {
-// position:relative;
-// }
+
 </style>

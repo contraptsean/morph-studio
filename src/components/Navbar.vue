@@ -38,6 +38,7 @@
 </template>
 
 <script>
+import {Collapse} from 'bootstrap'
 export default {
   name: 'Navbar',
   props: {
@@ -55,6 +56,15 @@ export default {
   },
   mounted() {
     window.addEventListener('scroll', this.updateScroll);
+      /* FOR MOBILE ONLY */
+    if (window.matchMedia("(max-width: 991px)").matches) {
+      const navLinks = document.querySelectorAll('.nav-link')
+      const menuToggle = document.getElementById('navbarSupportedContent')
+      const bsCollapse = new Collapse(menuToggle, {toggle: false})
+      navLinks.forEach((l) => {
+      l.addEventListener('click', () => { bsCollapse.toggle() })
+      })
+    }
   },
 }
 </script>

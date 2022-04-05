@@ -13,14 +13,7 @@
 
        <p class="lead">Morph Studios is an appointment based, boutique salon located at 1617 South Adams St, Unit 2, top floor. There is parking available in the front of the building with steps on the right to our cozy porch. </p>
            <p>More parking is located behind the building using the gravel driveway to the left. The doctors office parking next door is available on evenings and weekends. </p>
-      <!-- <p>There is parking available in the front of the building with steps on the right to our cozy porch. More parking is located behind the building using the gravel driveway to the left. </p>
 
-   <p>The doctors office parking next door is available on evenings and weekends. </p> -->
-
-<!-- 
-    <p>Located in the heart of Southside Tallahassee, Morph studio serves all hair types and textures, but we particularly love curly, and kinky hair :)</p>
-
-    <p>We specialize in Cut & Color, Texture, Hair Treatments, & Special Occasions</p> -->
     </div>
 
 
