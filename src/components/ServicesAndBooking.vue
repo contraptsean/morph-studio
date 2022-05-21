@@ -47,7 +47,7 @@
 <!--M-->
  <div class="card h-100 border border-primary shadow" data-aos="fade-down" data-aos-duration="500" data-aos-once="true" data-aos-delay="200"
 >
-  <img src="../assets/mystery-person.jpg" class="card-img-top rounded" alt="..." style="height:288px;">
+  <img src="../assets/maia-card1.png" class="card-img-top rounded" alt="..." style="height:288px;">
   <div class="card-body text-center">
     <h5 class="card-title">Maia</h5>
     <p class="card-text">Licensed Full Lash Specialist </p>

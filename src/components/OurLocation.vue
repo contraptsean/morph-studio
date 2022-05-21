@@ -11,7 +11,7 @@
     </div>
     <div class="col mt-5" data-aos="fade-right" data-aos-duration="500" data-aos-once="true">
 
-       <p class="lead">Morph Studios is an appointment based, boutique salon located at 1617 South Adams St, Unit 2, top floor. There is parking available in the front of the building with steps on the right to our cozy porch. </p>
+       <p class="lead">Morph Textures Studios is an appointment based, boutique salon located at 1617 South Adams St, Unit 2, top floor. There is parking available in the front of the building with steps on the right to our cozy porch. </p>
            <p>More parking is located behind the building using the gravel driveway to the left. The doctors office parking next door is available on evenings and weekends. </p>
 
     </div>

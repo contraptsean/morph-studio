@@ -8,7 +8,6 @@
   <video class="animate__animated animate__fadeIn" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
     <source src="https://res.cloudinary.com/dtjlk7e7g/video/upload/v1647718539/Morph-Front-1_bft1fz.mp4" type="video/mp4">
   </video>
-  <!-- <iframe src="https://www.youtube.com/embed/21ZhnZVy074?controls=0&autoplay=1&mute=1&playlist=21ZhnZVy074&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 
   <!-- The header content -->
@@ -16,7 +15,7 @@
     <div class="d-flex h-100 text-center align-items-center">
       <div class="w-100">
           <div class="col">
-        <h1 class="display-1">Morph Studio</h1>
+        <h1 class="display-1">Morph Textures Studio</h1>
         <a type="button" class="btn btn-outline-primary btn-lg px-4 me-2" href="#our-story">About</a>
         <a type="button" class="btn btn-outline-primary btn-lg px-4" href="#services-and-booking">Make An Appointment</a>
         </div>

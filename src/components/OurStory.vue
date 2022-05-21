@@ -10,7 +10,7 @@
       
     <div data-aos="fade-right" data-aos-duration="500" data-aos-once="true">
 
-       <p class="lead">Morph Studio was created with the simple concept in mind - that all heads deserve quality care.</p>
+       <p class="lead">Morph Textures Studio was created with the simple concept in mind - that all heads deserve quality care.</p>
 
        <p>What started with a partnership between two artists in February 2021, grew to a multi-medium artist salon specializing in the care and styling of all heads including highly-textured hair.</p>
     </div>
