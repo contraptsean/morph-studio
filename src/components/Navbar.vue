@@ -78,6 +78,9 @@ export default {
   text-transform: uppercase;
   font-weight:700;
 }
+.nav-link {
+  color:#fff;
+}
 
 .nav-item{
   margin:7px;
