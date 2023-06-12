@@ -24,6 +24,24 @@ const routes = [{
         component: () =>
             import ( /* webpackChunkName: "jordan" */ '../views/Jordan.vue')
     },
+    {
+        path: '/mahir',
+        name: 'Mahir',
+        // route level code-splitting
+        // this generates a separate chunk (about.[hash].js) for this route
+        // which is lazy-loaded when the route is visited.
+        component: () =>
+            import ( /* webpackChunkName: "Mahir" */ '../views/Mahir.vue')
+    },
+    {
+        path: '/elysian-nails',
+        name: 'ElysianNails',
+        // route level code-splitting
+        // this generates a separate chunk (about.[hash].js) for this route
+        // which is lazy-loaded when the route is visited.
+        component: () =>
+            import ( /* webpackChunkName: "ElysianNails" */ '../views/ElysianNails.vue')
+    },
 ]
 
 const router = createRouter({

@@ -7,7 +7,7 @@
     <div class="row">
       <!--Grid column-->
       <div class="col-md-12 col-lg-3 mb-4 mb-md-0" id="footer-row-1">
-        <h5 class="text-uppercase">Morph Studio Tallahassee</h5>
+        <h5 class="text-uppercase">Morph Textures Salon</h5>
       </div>
         <div class="col-md-12 col-lg-9 mb-4 mb-md-0" id="footer-row-2">
 
@@ -23,8 +23,8 @@
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    Made with 🖤 by 🦆 © 2023 Copyright:
-    <span>Morph Textures Studio</span>
+    Made with 🖤 © 2023 Copyright:
+    <span>Morph Textures Salon</span>
   </div>
   <!-- Copyright -->
 </footer>

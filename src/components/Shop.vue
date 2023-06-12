@@ -7,7 +7,7 @@
       <div class="col mb-3 mb-md-0">
                   <div class="card h-100" data-aos="fade-left" data-aos-duration="500" data-aos-once="true">
 
-                  <p class="lead">At Morph Textures Studio we are dedicated to finding products that work. </p>
+                  <p class="lead">At Morph Textures Salon we are dedicated to finding products that work. </p>
 
           
           <p>We currently carry Innersense Organic Beauty, Hairstory, and AG Naturals. We focus on finding hair care with no parabens, silicones, sulfates, synthetic fragrances or questionable ingredients.</p>

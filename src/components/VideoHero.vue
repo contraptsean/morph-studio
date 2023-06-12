@@ -15,7 +15,7 @@
     <div class="d-flex h-100 text-center align-items-center">
       <div class="w-100">
           <div class="col">
-        <h1 class="display-1">Morph Textures Studio</h1>
+        <h1 class="display-1">Morph Textures Salon</h1>
         <a type="button" class="btn btn-outline-primary btn-lg px-4 me-2" href="#our-story">About</a>
         <a type="button" class="btn btn-outline-primary btn-lg px-4" href="#services-and-booking">Make An Appointment</a>
         </div>

@@ -3,7 +3,7 @@
    <div class="container px-4 py-5">
     <h2 class="pb-2 border-bottom mt-5 display-4 services-heading" data-aos="fade-down" data-aos-duration="500" data-aos-once="true">Services & Bookings</h2>
     <p class="lead mb-4" data-aos="fade-down" data-aos-duration="500" data-aos-once="true" data-aos-anchor=".services-heading">In order to offer a full suite of services, each of our artists specializes uniquely and books independently. See our artist pages for full details.</p>
-    <div class="row row-cols-1 row-cols-lg-3 justify-content-center">
+    <div class="row row-cols-1 row-cols-lg-3 justify-content-center mb-3">
 
 <div class="col mb-4 mb-lg-0 d-flex justify-content-center">
     <!--A-->
@@ -62,6 +62,57 @@
 </div><!--end col-->
 
     </div><!--End Row-->
+<!--------><!--------><!--------><!--------><!--------><!-------->
+
+    <div class="row row-cols-1 row-cols-lg-3 justify-content-center">
+
+<div class="col mb-4 mb-lg-0 d-flex justify-content-center">
+    <!--A-->
+    <div class="card h-100 border border-primary shadow" data-aos="fade-down" data-aos-duration="500" data-aos-once="true">
+  <img src="../assets/mahir.jpg" class="card-img-top rounded" alt="...">
+  <div class="card-body text-center">
+    <h5 class="card-title">Mahir</h5>
+    <p class="card-text">Fade Master</p>
+  </div>
+    <div class="mt-auto text-center pb-3">
+
+    <a class="btn btn-secondary" href="/mahir">See Services <i class="bi bi-arrow-right"></i></a>
+    </div>
+</div>
+</div>
+
+
+
+<div class="col mb-4 mb-lg-0 d-flex justify-content-center">
+
+<!--J-->
+ <div class="card h-100 border border-primary shadow" data-aos="fade-down" data-aos-duration="500" data-aos-once="true" data-aos-delay="100"
+>
+  <img src="../assets/tatiana.jpg" class="card-img-top rounded" alt="...">
+  <div class="card-body text-center">
+    <h5 class="card-title">Elysian Nails</h5>
+    <p class="card-text">Nail Artistry</p>
+  </div>
+        <div class="mt-auto text-center pb-3">
+
+      <a class="btn btn-secondary" href="/elysian-nails" alt="jordan masked">See Services <i class="bi bi-arrow-right"></i></a>
+
+    </div>
+</div><!--end card-->
+
+</div><!--end col -->
+
+
+<div class="col mb-4 mb-lg-0 d-flex justify-content-center">
+
+
+</div>
+<!--end col-->
+
+    </div>
+    <!--End Row-->
+
+    <!-------->
    </div>
   </div>
 </template>
